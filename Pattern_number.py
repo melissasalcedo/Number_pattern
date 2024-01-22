@@ -2,6 +2,8 @@
 
 # Numbers
 for numbers in range(10):
-    print(numbers)
-# Print
+    for i in range(numbers):
+        print(numbers, end="")
+    # The pattern
+    print()
 

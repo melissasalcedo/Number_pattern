@@ -1,7 +1,7 @@
 # Print the pattern
 
-# Pseudocode
-
 # Numbers
+for numbers in range(10):
+    print(numbers)
 # Print
 
